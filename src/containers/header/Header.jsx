@@ -6,11 +6,11 @@ import './header.css';
 const Header = () => (
   <div className="gpt3__header section__padding" id="home">
     <div className="gpt3__header-content">
-      <h1 className="gradient__text">Let&apos;s Build Something amazing with GPT-3 OpenAI</h1>
-      <p>Yet bed any for travelling assistance indulgence unpleasing. Not thoughts all exercise blessing. Indulgence way everything joy alteration boisterous the attachment. Party we years to order allow asked of.</p>
+      <h1 className="gradient__text">Your Data, Our Expertise – Unlocking the Power of Information</h1>
+      <p>At Unidata, we provide tailored data analysis that transforms complex information into actionable insights. With cutting-edge techniques, we ensure that every piece of data leads to informed decisions and meaningful impact. Trust us to deliver precision and clarity in every project.</p>
 
       <div className="gpt3__header-content__input">
-        <input type="email" placeholder="Your Email Address" />
+        <input type="email" placeholder="Let’s connect – share your email, and we’ll contact you" />
         <button type="button">Get Started</button>
       </div>
 
