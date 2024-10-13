@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/UniFront/static/css/main.c919d709.css",
+    "main.js": "/UniFront/static/js/main.feb8b667.js",
+    "static/media/ai.png": "/UniFront/static/media/ai.aa60586ba1ba53762d94.png",
+    "static/media/possibility.png": "/UniFront/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/blog01.png": "/UniFront/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/blog03.png": "/UniFront/static/media/blog03.d922323861096f25274f.png",
+    "static/media/blog04.png": "/UniFront/static/media/blog04.742c1357e7b6c11078e6.png",
+    "static/media/blog05.png": "/UniFront/static/media/blog05.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog02.png": "/UniFront/static/media/blog02.ab0eb367561796e91532.png",
+    "static/media/trump.png": "/UniFront/static/media/trump.b927d9183b30c4fc64e5.png",
+    "static/media/people.png": "/UniFront/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/logo.svg": "/UniFront/static/media/logo.923ddf93d9386ca29e9c982f9e97853a.svg",
+    "index.html": "/UniFront/index.html",
+    "main.c919d709.css.map": "/UniFront/static/css/main.c919d709.css.map",
+    "main.feb8b667.js.map": "/UniFront/static/js/main.feb8b667.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c919d709.css",
+    "static/js/main.feb8b667.js"
+  ]
+}
